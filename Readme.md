@@ -2,4 +2,4 @@
 
 ## using Theme Name: DevFolio
 
-### used html,css and javasicript 
+### used html,css and javasicript
