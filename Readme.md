@@ -1,3 +1,3 @@
 # Portflolio
 
-### used html,css and javasicript
+## used html,css and javasicript
